@@ -4,3 +4,12 @@ let linguagem = prompt('Qual linguagem de programação você está estudando?')
 
 alert(`Olá ${nome}, você tem ${idade} anos e já está aprendendo ${linguagem}. Que ótimo!`)
 
+let valor = Number(prompt(`Você gosta de estudar ${linguagem}? Responda com o número 1 para SIM ou 2 para NÃO.`));
+
+if (valor === 1) {
+    alert('Muito bom! Continue estudando e você terá muito sucesso.')
+}else if (valor === 2) {
+    alert('Que pena! Já tentou se aprofundar em outras linguagens?')
+} else {
+    alert('Resposta inválida. Digite 1 para SIM ou 2 para NÃO.')
+}
