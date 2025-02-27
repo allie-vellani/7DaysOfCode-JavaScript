@@ -11,6 +11,7 @@ A iniciativa 7DaysOfCode tem como objetivo fortalecer a base técnica dos partic
 4️⃣ Compartilhamos no GitHub para acompanhamento do progresso.
 
 📂 Estrutura do Repositório
+
 📦 7DaysOfCode-JavaScript
  ┣ 📜 dia01.js  --> Resolução do Dia 1: Comparação de Tipos e Valores
  ┣ 📜 dia02.js  --> Resolução do Dia 2: Estruturas Condicionais
@@ -18,6 +19,7 @@ A iniciativa 7DaysOfCode tem como objetivo fortalecer a base técnica dos partic
  ┣ 📜 README.md --> Documentação do repositório
 
  📅 Dia 01 - Comparação de Tipos e Valores
+ 
 No primeiro desafio, aprendemos sobre os operadores de comparação no JavaScript e os problemas causados por conversões implícitas de tipo.
 
 ✅ Operador de igualdade solta (==) pode converter tipos automaticamente.
