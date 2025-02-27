@@ -9,7 +9,7 @@ let valor = Number(prompt(`Você gosta de estudar ${linguagem}? Responda com o n
 if (valor === 1) {
     alert('Muito bom! Continue estudando e você terá muito sucesso.')
 }else if (valor === 2) {
-    alert('Que pena! Já tentou se aprofundar em outras linguagens?')
+    alert('Que pena! Já tentou se aprofundar em outras linguagens para descobrir do que você gosta?')
 } else {
-    alert('Resposta inválida. Digite 1 para SIM ou 2 para NÃO.')
+    alert('Poxa, não entendi a sua resposta. Por favor, digite 1 para SIM ou 2 para NÃO.')
 }
