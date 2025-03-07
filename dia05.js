@@ -29,4 +29,3 @@ for (let categoria in listaDeCompras) {
         console.log(`• ${categoria.charAt(0).toUpperCase() + categoria.slice(1)}: ${listaDeCompras[categoria].join(", ")}`);
     }
 }
-
